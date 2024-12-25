@@ -1,6 +1,6 @@
 module qiniuup
 
-go 1.21.8
+go 1.21
 
 require (
 	github.com/jessevdk/go-flags v1.6.1
@@ -12,6 +12,7 @@ require (
 	github.com/alex-ant/gomath v0.0.0-20160516115720-89013a210a82 // indirect
 	github.com/elastic/go-sysinfo v1.0.2 // indirect
 	github.com/elastic/go-windows v1.0.0 // indirect
+	github.com/gammazero/toposort v0.1.1 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
 	github.com/joeshaw/multierror v0.0.0-20140124173710-69b34d4ec901 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
